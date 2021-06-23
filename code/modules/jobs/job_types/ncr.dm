@@ -911,7 +911,7 @@ Veteran Ranger
 		/obj/item/ammo_box/magazine/w308 = 3,
 		/obj/item/storage/survivalkit_aid=1,
 		/obj/item/gun/ballistic/revolver/revolver45=1,
-		/obj/item/ammo_box/c45rev=2
+		/obj/item/ammo_box/magazine/m45=3
 
 	)
 
